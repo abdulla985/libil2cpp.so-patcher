@@ -1,1 +1,5 @@
-# libil2cpp.so-patcher
+# libil2cpp.so-patcher 
+# this tool created by abdulla.hassan 
+# you can replace your offsets values in hex [arm64][armv7a]
+# usage clang++ mod mod.so 
+# use mt manager replace libil2cpp. so file and enjoy
