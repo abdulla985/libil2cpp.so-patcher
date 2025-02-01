@@ -4,7 +4,7 @@
 # usage clang++ patcher patcher.cpp # ./patcher
 # use mt manager replace libil2cpp. so file and enjoy
 
-# hex codes 
+ hex codes 
 C#:
 return 99l;
 ARMv7:
@@ -12,7 +12,7 @@ ARMv7:
 0x00, 0x10, 0xA0, 0xE3,
 0x1E, 0xFF, 0x2F, 0xE1
 
-ARM64:
+(arm64):
 0x60, 0x0C, 0x80, 0x52,
 0xC0, 0x03, 0x5F, 0xD6
 ------------------------------------
